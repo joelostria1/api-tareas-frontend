@@ -1,5 +1,8 @@
 # api-tareas-frontend
 
+Dejo el frotend de la prueba del proyecto, dejo el Readme con la plantilla que genera Vue al iniciar proyecto 
+La unica clase donde use apoyo de IA para agilizar el proceso fue en el maquetado para poder visualizar mejor la pagina
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
